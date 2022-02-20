@@ -40,3 +40,24 @@ npx eslint --init
 Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
 Successfully created .eslintrc.js file in /Users/wangshihao/Desktop/github/react-dasheng
 ESLint was installed locally. We recommend using this local copy instead of your globally-installed copy.
+
+# 04 
+emojiall
+https://www.emojiall.com/zh-hans
+# 08 节
+
+husky 安装
+
+# 09
+type: message
+type(module): message perf(reactvity): addxx
+refactor:代码重写不影响功能 chore:不知道是啥,就写这个 feat:新功能
+f1X:改bug
+docs:文档
+perf:性能
+test:测试
+style:样式 ci:打包集成相关 build:部署
+wip:写了ー半没完成 re Lease:发版 deps:依赖更改
+
+正则可视化
+https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
