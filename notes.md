@@ -22,3 +22,21 @@
 12.git规范分支, hooks
 13.代码的自动化部署 github action(静态的部署)
 14.自动化测试,日期处理,工具函数,简单可视化图标
+
+eslint安装
+npx eslint --init
+
+? How would you like to use ESLint? … 
+  To check syntax only
+❯ To check syntax and find problems
+  To check syntax, find problems, and enforce code style
+
+  ? What type of modules does your project use? … 
+❯ JavaScript modules (import/export)
+  CommonJS (require/exports)
+  None of these
+
+
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+Successfully created .eslintrc.js file in /Users/wangshihao/Desktop/github/react-dasheng
+ESLint was installed locally. We recommend using this local copy instead of your globally-installed copy.
